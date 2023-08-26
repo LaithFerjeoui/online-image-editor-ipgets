@@ -14,3 +14,6 @@ Coded by Laith Ferjaoui.
 ## Technologies Used:
 Front-end: Vanilla Javascript
 
+
+
+
